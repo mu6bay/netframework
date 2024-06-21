@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\bin\Debug\lab8.exe.config
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\bin\Debug\lab8.exe
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\bin\Debug\lab8.pdb
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.Form1.resources
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.exe
+C:\Users\user\Desktop\РАБОЧИЙ СТОЛ\milldoriss\lab8\obj\Debug\lab8.pdb

@@ -1,0 +1,10 @@
+D:\wpf\prr1\bin\Debug\prr1.exe.config
+D:\wpf\prr1\bin\Debug\prr1.exe
+D:\wpf\prr1\bin\Debug\prr1.pdb
+D:\wpf\prr1\obj\Debug\prr1.csproj.AssemblyReference.cache
+D:\wpf\prr1\obj\Debug\prr1.Form1.resources
+D:\wpf\prr1\obj\Debug\prr1.Properties.Resources.resources
+D:\wpf\prr1\obj\Debug\prr1.csproj.GenerateResource.cache
+D:\wpf\prr1\obj\Debug\prr1.csproj.CoreCompileInputs.cache
+D:\wpf\prr1\obj\Debug\prr1.exe
+D:\wpf\prr1\obj\Debug\prr1.pdb
